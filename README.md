@@ -9,7 +9,7 @@ Program Python sederhana untuk menghasilkan password acak.
 - Mudah digunakan
 
 ## Dibuat Dengan
-- Python
+Python
 
 ## Cara Menjalankan
 
