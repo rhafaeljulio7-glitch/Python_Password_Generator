@@ -1,11 +1,20 @@
 # Python Password Generator
 
-A simple Python program that generates random passwords.
+Program Python sederhana untuk menghasilkan password acak.
 
-## Features
-- Generate secure random passwords
-- Customizable password length
-- Simple and easy to use
+## Fitur
+- Membuat password acak yang aman
+- Panjang password bisa diatur
+- Bisa menggunakan simbol sesuai kemauan Anda
+- Mudah digunakan
 
-## Build with
-Python
+## Dibuat Dengan
+- Python
+
+## Cara Menjalankan
+
+1. Install Python
+2. Download file program
+3. Jalankan perintah berikut di terminal:
+
+python password_generator.py
