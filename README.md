@@ -8,7 +8,7 @@ Program Python sederhana untuk menghasilkan password acak.
 - Bisa menggunakan simbol sesuai kemauan Anda
 - Mudah digunakan
 
-## Dibuat Dengan
+# Dibuat Dengan
 Python
 
 ## Cara Menjalankan
